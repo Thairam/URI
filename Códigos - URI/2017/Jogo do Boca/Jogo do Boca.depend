@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506044092 source:c:\users\sherlock\desktop\jogo do boca\main.c
+	<stdio.h>
+	<stdlib.h>
+
